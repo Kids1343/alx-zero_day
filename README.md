@@ -1,1 +1,1 @@
-This file is mandatory in all alx projects
+This file is mandatory in all alx projects.
